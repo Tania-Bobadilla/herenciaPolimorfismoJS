@@ -1,0 +1,1 @@
+// clase PROPIETARIO que no heredada nadie de nada (creo) pero esta unida o colabora con la clase 
